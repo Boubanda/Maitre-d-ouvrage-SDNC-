@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+pillow
+PyMuPDF
+pandas
+plotly
+numpy
+
